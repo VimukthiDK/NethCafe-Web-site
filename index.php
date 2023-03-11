@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter
+ * CodeIgniter 
  *
  * An open source application development framework for PHP
  *
@@ -118,7 +118,7 @@ switch (ENVIRONMENT)
 
 /*
  *---------------------------------------------------------------
- * VIEW DIRECTORY NAME
+ * VIEW DIRECTORY NAMES 
  *---------------------------------------------------------------
  *
  * If you want to move the view directory out of the application
